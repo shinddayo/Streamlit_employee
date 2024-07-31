@@ -8,9 +8,7 @@ from streamlit_pandas_profiling import st_profile_report
 
 #for plotting images & adjusting colors
 import matplotlib.pyplot as plt
-import matplotlib as mpl
 from wordcloud import WordCloud , STOPWORDS, ImageColorGenerator
-from PIL import Image
 import plotly.express as px
 
 
