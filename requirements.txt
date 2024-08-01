@@ -1,4 +1,4 @@
-streamlit
+streamlit==1.37
 streamlit-pandas-profiling
 pandas
 st-gsheets-connection
